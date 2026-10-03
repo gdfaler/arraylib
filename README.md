@@ -21,3 +21,4 @@ ctest --test-dir build --output-on-failure
 ```
 ./build/variant_04
 ```
+Тесты: unit и integration, запускаются через CTest.
